@@ -4,6 +4,7 @@ public class Vendedor {
     private int edad;
     private double porcentajeComision;
 
+    //Constructor
     public Vendedor(String nombre, double salario, int edad,
                     double porcentajeComision) {
         this.nombre = nombre;
